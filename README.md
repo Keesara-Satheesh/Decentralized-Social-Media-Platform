@@ -1,4 +1,4 @@
-# Decentralized Sicial-media dApp
+# Decentralized Sicial-media dApp-by kumar sambhav
 
 This project is a blockchain-powered decentralized application (dApp) that emulates the basic functionalities of social media. Instead of relying on centralized servers, it uses blockchain technology, requiring users to connect a blockchain wallet and pay transaction fees to save posts securely on-chain.
 
